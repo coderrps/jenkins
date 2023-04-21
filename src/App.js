@@ -20,7 +20,7 @@ export default function Counter() {
           paddingRight: "60px",
           paddingBottom: "30px",
           color: "black",
-          borderRadius: "10px",
+          borderRadius: "13px",
           boxShadow: "1px 1px 20px rgb(104, 104, 104)",
           display: "flex",
           alignItems: "center",
